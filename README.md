@@ -2,7 +2,6 @@
 
 ## Welcome! 👋 Thanks for checking out thing Challenge
 
-[Figma file link] (https://www.figma.com/file/ij0DxlqT7qbBT3coiDaZEj/%F0%9F%94%B4-Clipboard-Landing-Page-%F0%9F%94%B4?node-id=101%3A68)
 [Frontend Metor Link] (https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9)
 
 Your challenge is to build out this preview card component and get it looking as close to the design as possible. Your users should be able to:
